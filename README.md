@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 16-year-old developer 💻 from India with experience in Python 🐍 and Machine Learning, having completed internships at OYO and Oye Labs. I’ve worked with ML libraries like PyTorch and TensorFlow.<br><br>Later, I ventured ⛵️ into Web Development, mastering HTML, CSS, and JavaScript. After a few freelance projects 👨‍💻, I picked up React, then transitioned to Next.js 😎 and TypeScript 😁 ( Now I make good web apps).<br><br>Moreover, I did 6 freelance projects. wohoo 🎉 😎 ( I know not a great number to be proud of 😑 )<br>You can reach out to me on itsarav.shakya@gmail.com 👀
+I’m a 16-year-old developer 💻 from India with experience in Python 🐍 and Machine Learning, having completed internships at OYO and Oye Labs. I’ve worked with ML libraries like PyTorch and TensorFlow.<br><br>Later, I ventured ⛵️ into Web Development, mastering HTML, CSS, and JavaScript. After a few freelance projects 👨‍💻, I picked up React, then transitioned to Next.js 😎 and TypeScript 😁 ( Now I can make good web apps).<br><br>Moreover, I did 6 freelance projects. wohoo 🎉 😎 ( I know not a great number to be proud of 😑 )<br>You can reach out to me on itsarav.shakya@gmail.com 👀
 
 
 # 💻 Tech Stack:
