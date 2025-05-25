@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 17-year-old developer 💻 from India with experience in Python 🐍 and Machine Learning, having as a developer at CTS and founded AdsGroo a software development agency and now I am currently working on LoreMate AI. I’ve worked with ML libraries like PyTorch and TensorFlow.<br><br>Later, I got ⛵️ into Web Development, mastering HTML, CSS, and JavaScript. After a few  projects 👨‍💻, I picked up React, then transitioned to Next.js 😎 and TypeScript 😁 ( Now I can make good web apps).<br><br>Moreover, I did many freelance projects. wohoo 🎉 😎<br>You can reach out to me on loremate@saturated.in  👀
+I’m a 17-year-old developer 💻 from India with experience in Python 🐍 and Machine Learning, having as a developer at CTS and founded AdsGroo a software development agency and now I am currently working on LoreMate AI. I’ve worked with ML libraries like PyTorch and TensorFlow.<br><br>Later, I got ⛵️ into Web Development, mastering HTML, CSS, and JavaScript. After a few  projects 👨‍💻, I picked up React, then transitioned to Next.js 😎 and TypeScript 😁 ( Now I can make good web apps).<br><br>Moreover, I did many freelance projects. wohoo 🎉 😎<br>You can reach out to me on arav@loremate.io  👀
 
 
 # 💻 Tech Stack:
